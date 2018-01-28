@@ -1,0 +1,13 @@
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\ParserApp.exe.config
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\ParserApp.exe
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\ParserApp.pdb
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\HtmlAgilityPack.dll
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\HtmlAgilityPack.pdb
+E:\WindowsApp\ParserApp\ParserApp\bin\Debug\HtmlAgilityPack.xml
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.csprojResolveAssemblyReference.cache
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.Form1.resources
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.Properties.Resources.resources
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.csproj.GenerateResource.Cache
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.csproj.CoreCompileInputs.cache
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.exe
+E:\WindowsApp\ParserApp\ParserApp\obj\Debug\ParserApp.pdb
